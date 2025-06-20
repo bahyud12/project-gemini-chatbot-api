@@ -13,5 +13,5 @@ Follow the steps below to set up and run this chatbot API locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/gemini-chatbot-api.git
+git clone [https://github.com/bahyud12/project-gemini-chatbot-api]
 cd gemini-chatbot-api
